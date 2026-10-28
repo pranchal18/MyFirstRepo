@@ -18,6 +18,7 @@ git status
 git add README.md
 git commit -m "Initial commit"
 git push -u origin main
+git status: untracked, modified, committed
 ```
 
 ### Learning Outcomes
