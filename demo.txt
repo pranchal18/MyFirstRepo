@@ -2,3 +2,4 @@ Line 1: Git keeps the history of a project.
 Line 2: The staging area holds the next commit.
 Line 3: git reset moves changes out of it.
 Line 4: This line was added in the second commit.
+Line 5: This line was added in the third commit.
